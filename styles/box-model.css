@@ -1,0 +1,19 @@
+.callout {max-width: fit-content; margin: auto;color: white;
+    background-color:darkblue;padding: 20px ;border: 2px;width: 60;
+    text-decoration-color: white;
+	
+}
+
+.callout img {float: right;;width: 80px;display: block;height: auto;
+    border: 5px;margin: 12px;padding: 10px;background-color: darkblue;
+	
+}
+
+blockquote {margin: auto;
+	
+}
+
+cite {display: block;border-top: 10px;padding-top: 10px;
+    text-align: right;font-size: 10px;
+	
+}
